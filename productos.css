@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(188, 243, 243);
+}
+.border-header{
+    background-color: rgb(2, 2, 39);
+    margin: -10px;
+    width: 101.3%;
+    height: 40px;
+ 
+}
+
+.border-footer{
+    margin-left: -10px;
+    margin-right: -7px;
+    margin-top: 555px;
+    border-bottom:50px solid rgb(9, 9, 59);
+
+}
+
+.menu{
+    float:right;
+    color: gray;
+    font-size: 20px;
+    margin: 100px;
+    margin-top: -20px;
+    margin-right: 200px;
+    margin-left: -150px;
+ 
+}
+.img1{
+    float: left;
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50px 50px 50px 50px;
+}
+.img2{
+    float: left;
+    margin-top: 30px;
+    margin-left: 80px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50px 50px 50px 50px;
+}
+.img3{
+    float: left;
+    margin-top: 30px;
+    margin-left: 70px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50px 50px 50px 50px;
+}
+.img4{
+    float: left;
+    margin-top: 30px;
+    margin-left: 80px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.img5{
+    float: right;
+    width: 150px;
+    height: 150px;
+    margin-top: 60px;
+    margin-right: 520px;
+    border-radius: 50px 50px 50px 50px;
+  
+}
+.img6{
+    float: right;
+    width: 150px;
+    height: 150px;
+    margin-right: 70px;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 60px;
+}
+
+.img7{
+    float: right;
+    width: 150px;
+    height: 150px;
+    margin-right: -150px;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 60px;
+}
+
+.img8{
+    float: right;
+    width: 150px;
+    height: 150px;
+    margin-right: -150px;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 60px;
+}
