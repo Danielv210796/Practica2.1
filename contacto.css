@@ -8,6 +8,31 @@ body{
     height: 40px;
  
 }
+.facebook{
+    float: right;
+    width: 30px;
+    height: 30px;
+    margin-top: -24px;
+    margin-right: -150px;
+    border-radius: 100px 100px 100px 100px;
+}
+.instagram{
+    float:right;
+    width: 30px;
+    height: 30px;
+    margin-top: -25px;
+    margin-right: -200px;
+    border-radius: 100px 100px 100px 100px;
+
+}
+.twitter{
+    float: right;
+    width: 30px;
+    height: 30px;
+    margin-top: -25px;
+    margin-right: -250px;
+    border-radius: 100px 100px 100px 100px;
+}
 
 .border-footer{
     margin-left: -10px;
@@ -16,6 +41,12 @@ body{
     border-bottom:50px solid rgb(9, 9, 59);
 
 }
+.texto-abajo{
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    margin-top: -44px;
+} 
 
 .menu{
     float:right;
@@ -25,6 +56,10 @@ body{
     margin-top: -20px;
     margin-right: 200px;
     margin-left: -180px;
- 
 }
-
+.texto{
+    color: white;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: -35px;
+}

@@ -97,18 +97,19 @@ body{
 }
 .img6{
     float: right;
-    width: 150px;
-    height: 150px;
-    margin-right: 70px;
+    width: 120px;
+    height: 120px;
+    margin-right: 110px;
     border-radius: 50px 50px 50px 50px;
-    margin-top: 60px;
+    margin-top: 80px;
 }
 
 .img7{
     float: right;
     width: 150px;
     height: 150px;
-    margin-right: -150px;
+    margin-right: -130px;
+    margin-left: 150px;
     border-radius: 50px 50px 50px 50px;
     margin-top: 60px;
 }
@@ -128,4 +129,47 @@ margin-left: 30px;
 margin-top: -35px;
 
 }
-  
+.texto-abajo{
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    margin-top: -44px;
+} 
+.pro1
+{
+font-size: 10px;
+margin-top: 50px;
+margin-left: 80px;    
+}
+.pro2
+{
+font-size: 10px;
+margin-top: 50px;
+margin-left: 80px;    
+}
+.pro3 
+{
+font-size: 10px;
+margin-top: 50px;
+margin-left: 80px;    
+}
+.pro5
+{
+font-size: 10px;
+margin-left: -500px;
+}
+.pro6{
+font-size: 10px;
+margin-left: -80px;
+}
+.pro7{
+font-size: 10px;
+margin-left: 150px;
+margin-right: -150px;
+}
+.pro8{
+    font-size: 10px;
+
+    margin-left: 400px;
+    margin-top: 100px;
+    }
