@@ -1,5 +1,5 @@
 body{
-    background-color: blueviolet;
+    background-color: white;
 }
 .border-header{
     background-color: rgb(2, 2, 39);
@@ -10,8 +10,8 @@ body{
 }
 .facebook{
     float: right;
-    margin-top: -25px;
-    margin-right: -190px;
+    margin-top: -12px;
+    margin-right: -150px;
     width: 30px;
     height: 30px;
     border-radius: 100px 100px 100px 100px;
@@ -21,7 +21,7 @@ body{
         width: 30px;
         height: 30px;
         margin-top: -25px;
-        margin-right: -245px;
+        margin-right: -340px;
         border-radius: 100px 100px 100px 100px;
     }
     .twitter{
@@ -29,7 +29,7 @@ body{
         width: 30px;
         height: 30px;
         margin-top: -25px;
-        margin-right: -300px;
+        margin-right: -380px;
         border-radius: 100px 100px 100px 100px;
     }
 

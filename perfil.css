@@ -63,10 +63,10 @@ border-radius: 100px 100px 100px 100px;
 
 .imagen{
 
-    width: 300px;
-    height: 340px;
-    margin-left: 150px;
-    margin-top: 50px;
+    width: 400px;
+    height: 440px;
+    margin-left: 120px;
+    margin-top: 10px;
 }
 .border-footer{
     margin-left: -10px;
@@ -93,12 +93,12 @@ border-radius: 100px 100px 100px 100px;
 .texto-imagen{
     float: right;
     margin-right: 600px;
-    margin-top: -240px;
+    margin-top: -340px;
 }
 .texto-center{
     text-align: center;
     margin-left: 680px;
     margin-right: 500px;
-    margin-top: -120px;
+    margin-top: -180px;
     font-size: 13px;
 }
