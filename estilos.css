@@ -1,28 +1,24 @@
 body{
-    background-color:white;
+    background-color: black;
 }
+
 .fondo{
-
-    width: 1200px;
-    height: 639px;
-    margin-left: 100px;
+    width: 1490px;
+    height: 670px;
 }
-.texto{
+.texto-center{
+    font-size: 30px;
     color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 100px;
-    text-align: center;
-    margin: -400px;
-    border-color: green;
+    font-style: oblique;
+    margin-left: 300px;
+    margin-top: -450px;
 }
-.entrar{
-    color: gold;
-    font-size: 40px;
+.enlace{
+    font-size: 50px;
     margin-left: 350px;
-    margin-top: -320px;
-    text-shadow: gold;
-    border-radius: 3px;
-    box-shadow: gold;
+    color: yellow;
+    text-decoration: none;
+    text-shadow: 20px;
 
-
+    
 }
