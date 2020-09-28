@@ -2,7 +2,7 @@ body{
     background-color:white;
 }
 .border-header{
-    background-color:rgb(2, 2, 39);
+    background-color: rgb(9, 9, 59);
     margin: -10px;
     width: 101.3%;
     height: 40px;
@@ -31,6 +31,12 @@ border-radius: 100px 100px 100px 100px;
     margin-right: -380px;
     border-radius: 100px 100px 100px 100px;
 }
+.border-footer{
+    margin-left: -10px;
+    margin-right: -7px;
+    border-bottom:50px solid rgb(9, 9, 59);
+    margin-top: 290px;
+}
 
 .menu{
     float:right;
@@ -42,22 +48,45 @@ border-radius: 100px 100px 100px 100px;
     margin-left: -150px;
  
 }
-
+.texto-abajo{
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    margin-top: -35px;
+}
 .texto{
-    color: rgb(4, 4, 78);
+    color:white;
     font-size: 30px;
     margin-left: 30px;
     margin-top: -35px;    
 }
-.texto-abajo{
-    font-size: 10px;
-    text-align: center;
-    color: white;
-    margin-top: -30px;
+
+.imagen{
+
+    width: 300px;
+    height: 340px;
+    margin-left: 150px;
+    margin-top: 50px;
 }
 .border-footer{
     margin-left: -10px;
     margin-right: -7px;
     border-bottom:50px solid rgb(9, 9, 59);
-    margin-top: 535px;
+    margin-top: 150px;
+}
+.menu{
+    float:right;
+    color: gray;
+    font-size: 20px;
+    margin: 100px;
+    margin-top: -20px;
+    margin-right: 200px;
+    margin-left: -150px;
+ 
+}
+.titulo{
+    font-style: italic;
+    font-size: xx-small;
+    color: black;
+    font-size: 40px;
 }

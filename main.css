@@ -37,7 +37,9 @@ border-radius: 100px 100px 100px 100px;
     border-bottom:50px solid rgb(9, 9, 59);
     margin-top: 50px;
 }
-
+.titulo{
+    color: red;
+}
 .menu{
     float:right;
     color: gray;
@@ -106,15 +108,22 @@ border-radius: 100px 100px 100px 100px;
     margin-top: -100px;
     margin-left: 210px;
 }
+.uno{
+    font-size: 20px;
+    color: rgb(8, 14, 73);
+    margin-top: -100px;
+    margin-left: 210px;
+}
 .dos{
     font-size: 20px;
     color: rgb(8, 14, 73);
-    margin-left: 620px;
-    margin-top: -100px;  
+    margin-top: -100px;
+    margin-left: 610px;
 }
 .tres{
     font-size: 20px;
     color: rgb(8, 14, 73);
-    margin-left: 1010px;
     margin-top: -100px;
+    margin-left: 1000px;
 }
+
