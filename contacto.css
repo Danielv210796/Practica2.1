@@ -10,8 +10,8 @@ body{
 }
 .facebook{
     float: right;
-    margin-top: -12px;
-    margin-right: -150px;
+    margin-top: -25px;
+    margin-right: -190px;
     width: 30px;
     height: 30px;
     border-radius: 100px 100px 100px 100px;
@@ -21,7 +21,7 @@ body{
         width: 30px;
         height: 30px;
         margin-top: -25px;
-        margin-right: -340px;
+        margin-right: -245px;
         border-radius: 100px 100px 100px 100px;
     }
     .twitter{
@@ -29,7 +29,7 @@ body{
         width: 30px;
         height: 30px;
         margin-top: -25px;
-        margin-right: -380px;
+        margin-right: -300px;
         border-radius: 100px 100px 100px 100px;
     }
 
