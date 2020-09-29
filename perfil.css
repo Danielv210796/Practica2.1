@@ -35,7 +35,7 @@ border-radius: 100px 100px 100px 100px;
     margin-left: -10px;
     margin-right: -7px;
     border-bottom:50px solid rgb(9, 9, 59);
-    margin-top: 290px;
+    margin-top: 50px;
 }
 
 .menu{
@@ -63,16 +63,16 @@ border-radius: 100px 100px 100px 100px;
 
 .imagen{
 
-    width: 400px;
-    height: 440px;
+    width: 300px;
+    height: 340px;
     margin-left: 120px;
-    margin-top: 10px;
+    margin-top: 50px;
 }
 .border-footer{
     margin-left: -10px;
-    margin-right: -7px;
+    margin-right: -8px;
     border-bottom:50px solid rgb(9, 9, 59);
-    margin-top: 150px;
+    margin-top: 253px;
 }
 .menu{
     float:right;
@@ -84,21 +84,16 @@ border-radius: 100px 100px 100px 100px;
     margin-left: -150px;
  
 }
-.titulo{
-    font-style: italic;
-    font-size: xx-small;
-    color: black;
-    font-size: 40px;
-}
+
 .texto-imagen{
     float: right;
-    margin-right: 600px;
-    margin-top: -340px;
+    margin-right: 540px;
+    margin-top: -300px;
 }
 .texto-center{
     text-align: center;
-    margin-left: 680px;
-    margin-right: 500px;
+    margin-left: 580px;
+    margin-right: 400px;
     margin-top: -180px;
     font-size: 13px;
 }
