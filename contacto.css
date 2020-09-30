@@ -6,6 +6,7 @@ body{
     margin: -10px;
     width: 101.3%;
     height: 40px;
+    
 }
 .facebook{
 float: right;
@@ -35,7 +36,7 @@ border-radius: 100px 100px 100px 100px;
     margin-left: -10px;
     margin-right: -7px;
     border-bottom:50px solid rgb(9, 9, 59);
-    margin-top: 90px;
+    margin-top: 155px;
 }
 
 .menu{
@@ -58,7 +59,8 @@ border-radius: 100px 100px 100px 100px;
     color:white;
     font-size: 30px;
     margin-left: 30px;
-    margin-top: -35px;    
+    margin-top: -150px;
+  
 }
 .titulo{
     font-size: 20px;
@@ -71,6 +73,7 @@ border-radius: 100px 100px 100px 100px;
     color: black;
     font-size: 6px;
     margin-left: 300px;
+    margin-top: -200px;
 }
 .Whats{
     color: black;
@@ -78,12 +81,42 @@ border-radius: 100px 100px 100px 100px;
     margin-left: 300px;
 }
 .Website{
-    color: blue;
+    color: black;
     font-size: 10px;
     margin-left: 300px;
 }
-.boton{
+
+
+.label-text{
+    font-size: 20px;
+    color: navy;
     width: 20px;
-    height: 55px;
+    height: 15px;
+    margin-left: 750px;
+    margin-top: -200px;
+    padding-bottom: 10px;
 }
+    
+.btn-neon{
+    margin-left: 950px;
+    position: relative;
+    display: inline-block;
+    padding: 8px 15px;
+    letter-spacing: 5px;
+    font-size: 24px;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.1s;  
+    color: black;
+    margin-top: 40px;
+    }
+    .btn-neon:hover
+    {
+    background-color: rgb(243, 217, 102);
+    box-shadow: 10 10 10px black, 10 10 40px
+    black, 0 0 80px black;
+    }
+    
+
+
 

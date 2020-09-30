@@ -5,7 +5,7 @@ body{
     background-color: white;
     margin: -10px;
     width: 101.3%;
-    height: 40px;
+    height: 30px;
 }
 .facebook{
 float: right;
@@ -33,9 +33,10 @@ border-radius: 100px 100px 100px 100px;
 }
 .border-footer{
     margin-left: -10px;
-    margin-right: -7px;
+    margin-right: 700px;
     border-bottom:50px solid rgb(9, 9, 59);
-    margin-top: 100px;
+    margin-top: 15px;
+    width: 1350px;
 }
 .titulo{
     color: red;
@@ -63,19 +64,24 @@ border-radius: 100px 100px 100px 100px;
     margin-top: -35px;    
 }
 .img1{
-    width: 1520px;
+    width: 1350px;
     height: 300px;
-    margin-left: -4px;
-    margin-top: -90px;
+    margin-top: -95px;
+    margin-left: -3.5px;
+    margin-right: -60px;
+    
+
+  
+    
 }
 .texto-centro{
     font: xx-large;
-    color: white;
-    font-size: 50px;
+    color: yellow;
+    font-size: 40px;
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-top: -150px;
-    margin-left: 700px;
+    margin-top: -120px;
+    margin-left: 600px;
 }
 .foto1{
 
@@ -117,13 +123,33 @@ border-radius: 100px 100px 100px 100px;
 .dos{
     font-size: 20px;
     color: rgb(8, 14, 73);
-    margin-top: -100px;
+    margin-top: -80px;
     margin-left: 610px;
 }
 .tres{
     font-size: 20px;
     color: rgb(8, 14, 73);
-    margin-top: -100px;
+    margin-top: -70px;
     margin-left: 1000px;
+    margin-right: -50px;
 }
-
+.text1{
+    margin-left: 130px;
+    font-size: 10px;
+    margin-top: -40px;
+    margin-right: 900px;
+}
+.text2{
+    margin-left: 550px;
+    font-size: 10px;
+    margin-top: -80px;
+    margin-right: 500px;
+    text-align: center;
+}
+.text3{
+    margin-left: 950px;
+    font-size: 10px;
+    margin-top: -80px;
+    margin-right: 100px;
+    
+}
